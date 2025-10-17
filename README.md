@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shumaila Wakeel
-- 🌱 I’m learning **Flutter**, **.NET Core**, and improving my skills in **UI/UX design**.
+- 🌱 I’m learning **Flutter**, and improving my skills in **UI/UX design**.
 - 🤝 I’m looking to collaborate on **open-source projects** and **Flutter apps**.
 - 📫 How to reach me -
     -LinkedIn: linkedin.com/in/shumaila-wakeel-447916331   
